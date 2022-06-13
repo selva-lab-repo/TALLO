@@ -1,4 +1,4 @@
- <img src="https://github.com/selva-lab-repo/TALLO/blob/48d7cd593391e0695ca06b61ed364878bb4f771f/Ancillary/Tallo%20logo.jpg" align="left" width=200/> a global tree allometry and crown architecture database
+ <img src="https://github.com/selva-lab-repo/TALLO/blob/48d7cd593391e0695ca06b61ed364878bb4f771f/Ancillary/Tallo%20logo.jpg" align="left" width=200/> TALLO - a global tree allometry and crown architecture database
 ======================================================================================================
 ![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
 
@@ -6,7 +6,7 @@ This repository contains source data for the Tallo database, a global database f
 
 It contains two separate data sets:
 
-## DB 
+### DB 
 
 The main, unmodified database, and metadata files. 
 
@@ -15,7 +15,7 @@ The main, unmodified database, and metadata files.
 - **Tallo_metadata.csv**: a metadata file describing the fields of the Tallo.csv file
 - **Reference_look_up_table.csv**: a look-up table matching reference ID codes in the Tallo.csv file to the original source of the data
     
-## Jucker et al. 2022
+### Jucker et al. 2022
 
 The database, as used in the associated publication. 
 
