@@ -1,0 +1,14 @@
+Field,Description
+tree_id,Unique tree identifier code
+division,Major phylogenetic division (Angiosperm or Gymnosperm)
+family,Family name
+genus,Genus name
+species,Species binomial name
+latitude,Latitude (in decimal degrees)
+longitude,Longitude (in decimal degrees)
+stem_diameter_cm,Stem diameter (in cm). For multi-stemmed trees values for individual stems (Di) were pooled into a single value calculated as: sqrt(sum(Di^2))
+height_m,Tree height (in m)
+crown_radius_m,Crown radius (in m)
+height_outlier,Identifier for trees with height values flagged as outliers (Y = outlier; N = non-outlier)
+crown_radius_outlier,Identifier for trees with crown radius values flagged as outliers (Y = outlier; N = non-outlier)
+reference_id,Reference code corresponding to the data source from which a record was obtained (see 'Reference_look_up_table.csv' for details on data sources).
