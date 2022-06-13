@@ -1,8 +1,6 @@
-TALLO <img src="https://github.com/selva-lab-repo/TALLO/blob/48d7cd593391e0695ca06b61ed364878bb4f771f/Ancillary/Tallo%20logo.jpg" align="right" width=200/>
+TALLO – a global tree allometry and crown architecture database <img src="https://github.com/selva-lab-repo/TALLO/blob/48d7cd593391e0695ca06b61ed364878bb4f771f/Ancillary/Tallo%20logo.jpg" align="right" width=200/>
 ======================================================================================================
 ![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
-
-# Tallo – a global tree allometry and crown architecture database
 
 This repository contains source data for the Tallo database, a global database for measurements on tree allometry and crown architecture. See also the forthcoming publication: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database. Global Change Biology (in press)*. 
 
