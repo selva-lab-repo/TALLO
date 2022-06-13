@@ -1,0 +1,9 @@
+Field,Description
+tree_id,"Unique tree identifier code, matching that in the Tallo.csv file"
+realm,"Biogeographic realm. Follows the classification of Olson et al. (2001) BioScience, 51, 933–938"
+biome,"Biome type. Follows the classification of Olson et al. (2001) BioScience, 51, 933–938"
+mean_annual_rainfall,Mean annual rainfall (in mm/yr). Values were obtained from the WorldClim2 database based on the geographic coordinates of the tree.
+rainfall_seasonality,Rainfall seasonality (coefficent of variation). Values were obtained from the WorldClim2 database based on the geographic coordinates of the tree.
+aridity_index,Aridity index (calculated as mean annual precipitation / potential evapotranspiration). Values were obtained from the Global Aridity Index and Potential Evapotranspiration Climate Database (v2) based on the geographic coordinates of the tree.
+mean_annual_temperature,Mean annual temperature (in degree C). Values were obtained from the WorldClim2 database based on the geographic coordinates of the tree.
+maximum_temperature,Maximum temperature of the warmest month (in degree C). Values were obtained from the WorldClim2 database based on the geographic coordinates of the tree.
