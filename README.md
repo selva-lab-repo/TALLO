@@ -14,7 +14,8 @@ The Tallo database itself, along with its associatedand metadata files:
 - **Tallo_metadata.csv**: a metadata file describing the fields of the Tallo.csv file
 - **Reference_look_up_table.csv**: a look-up table matching reference ID codes in the Tallo.csv file to the original data sources
     
-### Jucker et al. (2022) GCB
+
+### Jucker et al. (2022)
 
 Associated data files and R code used in the publication accompanying the release of the Tallo database:
 
