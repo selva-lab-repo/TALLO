@@ -2,26 +2,24 @@
 ======================================================================================================
 ![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
 
-This repository contains source data for the Tallo database, a global database for measurements of tree allometry and crown architecture. See also the forthcoming publication: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database. Global Change Biology (in press)*. 
+This is the repository of the Tallo database, a global collection of georeferenced and taxonomically standardized records of individual trees for which stem diameter, height and/or crown radius have been measured. For a full description of the database, see: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database* (accepted for publication in Global Change Biology on 06/06/2022). If using the Tallo database in your work please cite the original publication listed above.
 
-It contains two separate data sets:
+The repository contains two separate data sets:
 
-### DB 
+### DB
 
-The main, unmodified database, and metadata files. 
+The Tallo database itself, along with its associatedand metadata files:
 
-
-- **Tallo.csv**: the Tallo database itself (zipped)
+- **Tallo.csv**: the Tallo database (zipped)
 - **Tallo_metadata.csv**: a metadata file describing the fields of the Tallo.csv file
-- **Reference_look_up_table.csv**: a look-up table matching reference ID codes in the Tallo.csv file to the original source of the data
+- **Reference_look_up_table.csv**: a look-up table matching reference ID codes in the Tallo.csv file to the original data sources
     
-### Jucker et al. 2022
+### Jucker et al. (2022) GCB
 
-The database, as used in the associated publication. 
-
+Associated data files and R code used in the publication accompanying the release of the Tallo database:
 
 - **R code to replicate case studies.R**: the R code that replicates the case studies in Jucker et al. (2022) GCB
 - **Tallo_environment.csv**: environmental data layers for each tree in the Tallo.csv file needed to replicate the case studies in Jucker et al. (2022) GCB (zipped)
-- **Tallo_environment_metadata.csv**: a metadata file describing the fields of the Tallo_environment.csv
+- **Tallo_environment_metadata.csv**: a metadata file describing the fields of the Tallo_environment.csv file
 - **current_climate.csv**: current-day climate data layers at 5-arc minute spatial resolution needed to replicate case study 3 in Jucker et al. (2022) GCB (zipped)
-- **future_climate_ssp245.csv**: projected climate data layers at 5-arc minute spatial resolution needed to replicate case study 3 in Jucker et al. (2022) GCB (zipped)
+- **future_climate_ssp245.csv**: projected future climate data layers at 5-arc minute spatial resolution needed to replicate case study 3 in Jucker et al. (2022) GCB (zipped)
