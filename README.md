@@ -2,7 +2,7 @@
 ======================================================================================================
 ![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
 
-This repository contains source data for the Tallo database, a global database for measurements on tree allometry and crown architecture. See also the forthcoming publication: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database. Global Change Biology (in press)*. 
+This repository contains source data for the Tallo database, a global database for measurements of tree allometry and crown architecture. See also the forthcoming publication: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database. Global Change Biology (in press)*. 
 
 It contains two separate data sets:
 
