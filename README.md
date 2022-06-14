@@ -2,7 +2,7 @@
 ======================================================================================================
 ![license](https://img.shields.io/badge/Licence-GPL--3-blue.svg) 
 
-This is the repository of the Tallo database, a global collection of georeferenced and taxonomically standardized records of individual trees for which stem diameter, height and/or crown radius have been measured. For a full description of the database, see: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database* (accepted for publication in Global Change Biology on 06/06/2022). If using the Tallo database in your work please cite the original publication listed above.
+This is the repository of the Tallo database, a global collection of georeferenced and taxonomically standardized records of individual trees for which stem diameter, height and/or crown radius have been measured. For a full description of the database, see: *Jucker et al. (2022). Tallo - a global tree allometry and crown architecture database. Global Change Biology, DOI: 10.1111/GCB.16302*. If using the Tallo database in your work please cite the original publication listed above.
 
 The repository contains two separate data sets:
 
